@@ -4,7 +4,9 @@ lumeo is an offline app. It does not create user accounts and does not send your
 
 All data the app collects (focus sessions, garden progress, settings) is stored only on your device.
 
-**To delete all your data:** **Uninstall** the app.
+**To delete all your data:** 
+1. Open your device **Settings → Apps → lumeo → Storage → Clear data**
+2. **Uninstall** the app.
 
 Uninstalling permanently deletes all lumeo data from your device. There is no server-side data to delete.
 
